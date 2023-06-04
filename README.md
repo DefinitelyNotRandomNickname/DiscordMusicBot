@@ -23,9 +23,9 @@ You can use `play` and send some string as an argument.
 
 With `playlist` you can check actual song and playlist.
 
-`skip`, `pause`, `resume` is kinda obious.
+`skip`, `pause`, `resume` is kinda obvious.
 
-`stop` stop audio from playing and clear playlist.
+`stop` stops audio from playing and clear playlist.
 
 `volume` sets volume, `bassboost` sets bass boost, `nightcore` sets 30% higher pitch and 20% higher pace.
 
@@ -33,12 +33,12 @@ With `playlist` you can check actual song and playlist.
 This is <span style="color:red;">(NSFW)</span> part, and sometimes has lags. They depend on API and reddit.
 
 `pls` sends tag selected image/gif from `https://nekobot.xyz` API. Tags are listed in `/help pls` and in `help.py` file.
-My favorite is tag `food`.
+My favorite tag is `food`.
 
 `dicpic` this shit is fire to send on your friend's server. Dic pic is precisely selected randomly from TOP 100 hot of `r/MassiveCock` subreddit.
 
 ## Miscellaneous
 There's also `on_voice_state_update` function that detects if that guy with `284580506878869504` ID has connected to the voice channel. If he's in there for
-like 60 minutes bot is join him and play some good ass music. This function is kinda buggy, but w/e.
+like 60 minutes bot is gonna join to him and play some good ass music. This function is kinda buggy, but w/e.
 
 With `on_message` function you can set up bot responses to certain sentences, and there was also plan for doing laundry alarm that would go WEE WOO WEE WOO, but finally I had no time for it.
