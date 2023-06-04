@@ -35,7 +35,7 @@ This is <span style="color:red;">(NSFW)</span> part, and sometimes has lags. The
 `pls` sends tag selected image/gif from `https://nekobot.xyz` API. Tags are listed in `/help pls` and in `help.py` file.
 My favorite is tag `food`.
 
-`dicpic` this shit is fire to send on your friend's server. Dic pic is precesilly selected randomly from TOP 100 hot of `r/MassiveCock` subreddit.
+`dicpic` this shit is fire to send on your friend's server. Dic pic is precisely selected randomly from TOP 100 hot of `r/MassiveCock` subreddit.
 
 ## Miscellaneous
 There's also `on_voice_state_update` function that detects if that guy with `284580506878869504` ID has connected to the voice channel. If he's in there for
